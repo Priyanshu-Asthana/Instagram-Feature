@@ -1,2 +1,2 @@
-Created a instagramm like storys section in which we can view the stories of other profiles.
-create a  instagram post like feature with an heart poping out transition 
+Created a instagram story section in which we can view the stories of other profiles and also created a instagram post liking feature with a heart popping out transition.
+
